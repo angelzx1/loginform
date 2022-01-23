@@ -1,0 +1,42 @@
+.telalogin{
+    text-align: center;
+    background-color: #0D0D0D;
+    width: 600px;
+    height: 500px;
+    color: white;
+    border-radius: 50px;
+    margin-left: 360px;
+}
+body{
+    background-color: #2484d9;
+}
+input{
+    border: 2px solid #2484d9;
+  border-radius: 4px;
+  padding: 10px;
+}
+.email{
+   
+}
+p{
+    font-size:23px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.introducao{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+    font-size:60px;
+    text-align: center;
+    padding-top:48px;
+}
+button{
+    background-color: #0D0D0D;
+  border: 2px solid #2484d9;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 8px;
+  margin-top:17px;
+}
